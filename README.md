@@ -14,7 +14,8 @@ Evaluation metrics: Mean Absolute Error (MAE), R² score
 
 *Results*<br />
 MAE: e.g., 12 (average absolute error in energy units)<br />
-R²: e.g., 0.85 (proportion of variance explained by the model)<br />
+R²: e.g., 0.85 (proportion of variance explained by the model)
+
 The results show that temperature is the most important factor influencing energy consumption, with a feature importance of around 0.58. This is consistent with the correlation heatmap, where temperature has a strong positive correlation (≈0.7) with energy consumption, indicating that higher temperatures are associated with higher energy usage.
 The scatter plot confirms the relationship between temperature and energy consumption, showing a clear upward trend: as temperature increases, energy consumption generally increases as well.
 Overall, the analysis suggests that temperature is the dominant driver of energy consumption in the dataset, while the other factors play a relatively minor role.
